@@ -10,6 +10,7 @@ public class Main {
     }
     public void getRequest(){
         System.out.println("put");
+        System.out.println("patch");
     }
 
 }
